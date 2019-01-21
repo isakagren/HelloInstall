@@ -1,0 +1,11 @@
+{
+  "CurrentInstall": 1,
+  "InstallSource": "http://github.com/blablalba",
+  "InstallTasks": [
+    {
+      "Name": "Test",
+      "Source": "http://github.com/blablalba",
+      "Path": "C:\\Users\\Default\\Documents"
+    }
+  ]
+}
